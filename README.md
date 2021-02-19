@@ -10,3 +10,5 @@ Publish MOM Scenario Possession
 12-02-2021 V1.0b added statistics for counting Mythos type
 
 13-02-2021 V1.0c Fixed BtT Bedroom2 tile
+
+19-02-2021 V1.1 Replaced remaining default Mythos with tailored Mythos events
