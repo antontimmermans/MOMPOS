@@ -16,3 +16,5 @@ Publish MOM Scenario Possession
 21-02-2021 V1.1a Fixed minor text issues and tuned difficulty (end boss ++, less Flavor)
 
 23-02-2021 V1.1b Fixed minor text issues
+
+28-03-2021 V1.2  Added sound files by Steven Weese. Added more purpose for rope
