@@ -18,3 +18,5 @@ Publish MOM Scenario Possession
 23-02-2021 V1.1b Fixed minor text issues
 
 28-03-2021 V1.2  Added sound files by Steven Weese. Added more purpose for rope
+
+14-04-2021 V1.2a  Added Spanish translation by Vidimus
