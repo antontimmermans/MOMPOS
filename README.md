@@ -24,3 +24,5 @@ Publish MOM Scenario Possession
 14-04-2021 V1.2b Second package creation attempt to bypass bug in 2.5.4
 
 08-06-2021 V1.2c Added Polish translation by Hacai
+
+08-06-2021 V1.2d Updated Spanish translation by Vidimus
