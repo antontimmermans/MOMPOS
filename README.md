@@ -26,3 +26,5 @@ Publish MOM Scenario Possession
 08-06-2021 V1.2c Added Polish translation by Hacai
 
 08-06-2021 V1.2d Updated Spanish translation by Vidimus
+
+06-0502022 v1.2e Added French translation by facrax
