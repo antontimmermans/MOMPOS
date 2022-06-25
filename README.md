@@ -27,4 +27,6 @@ Publish MOM Scenario Possession
 
 08-06-2021 V1.2d Updated Spanish translation by Vidimus
 
-06-0502022 v1.2e Added French translation by facrax
+06-05-2022 v1.2e Added French translation by facrax
+
+25-06-2022 v1.2f Updated French translation by facrax
