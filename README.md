@@ -32,3 +32,5 @@ Publish MOM Scenario Possession
 25-06-2022 v1.2f Updated French translation by facrax
 
 27-03-2023 v1.2g Added German translation by Frankenraecher.
+
+13-04-2023 v1.2h Added Spanish Voiceover by Noviembre Nocturno and Onh Dr. > Iñaki Ibiriku
