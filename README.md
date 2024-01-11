@@ -36,3 +36,5 @@ Publish MOM Scenario Possession
 13-04-2023 v1.2h Added Spanish Voiceover by Noviembre Nocturno and Onh Dr. > Iñaki Ibiriku
 
 05-01-2024 v1.2i Added Czech translation by LabBrab
+
+11-01-2024 v1.2j Removed English voiceover from Czech translation on request of LabBrab
