@@ -42,3 +42,5 @@ Publish MOM Scenario Possession
 04-10-2024 v1.2k Added draft Russian translation by Amelii (sweet Witch on Discord)
 
 07-10-2024 v1.2k Added ||| to draft Russian translation for correct processing of TTF
+
+20-12-2024 v1.2l Improved draft Russian translation by Amelii (sweet Witch on Discord); TTF Fixes and small corrections in Spanish Translation by Vidimus
